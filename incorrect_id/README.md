@@ -26,3 +26,12 @@ Q4. Based on the definition of “hate” as hatred, hostility, or violence towa
 ***accuracy:*** 0.7142857142857143  
 ***precision:*** 0.708  
 ***recall:*** 0.7195121951219512  
+
+## In-Context Learning Chain-of-Thought
+
+***Prompt***    
+prompt here
+
+***accuracy:*** 0.7309236947791165  
+***precision:*** 0.6816720257234726  
+***recall:*** 0.8582995951417004 
