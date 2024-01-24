@@ -3,10 +3,6 @@
 ***Prompt***  
 You are a hate speech detection expert system that aims to protect the friendly atmosphere of social networks. Here is one picture. Please judge whether the picture is hateful or not-hateful.
 
-***Accuracy:*** 0.6793587174348698  
-***Precision:*** 0.6355140186915887  
-***Recall:*** 0.8259109311740891
-
 ## Chain-of-Thought
 
 ***Prompt***  
@@ -23,15 +19,7 @@ Q2d. Is there any symbolism or imagery used as a stand-in or reference to any ma
 Q3. Taking into account the previous answers, could the text be describing something about the image that makes it hateful in this context?  
 Q4. Based on the definition of “hate” as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society,  should this image be classified as hateful? Explain your reasoning.  
 
-***accuracy:*** 0.7142857142857143  
-***precision:*** 0.708  
-***recall:*** 0.7195121951219512  
-
 ## In-Context Learning Chain-of-Thought
 
 ***Prompt***    
 prompt here
-
-***accuracy:*** 0.7309236947791165  
-***precision:*** 0.6816720257234726  
-***recall:*** 0.8582995951417004 
