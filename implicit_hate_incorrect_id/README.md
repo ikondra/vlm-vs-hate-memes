@@ -1,5 +1,5 @@
 # Dataset: [Deciphering Implicit Hate](https://github.com/botelhoa/Dog_Whistle_Hate?tab=readme-ov-file)
-# Paper: [Deciphering Implicit Hate: Evaluating AutomatedDetection Algorithms for Multimodal Hate](https://arxiv.org/pdf/2106.05903.pdf)
+# Paper: [Deciphering Implicit Hate: Evaluating Automated Detection Algorithms for Multimodal Hate](https://arxiv.org/pdf/2106.05903.pdf)
 
 ## General with Context Statement
 
