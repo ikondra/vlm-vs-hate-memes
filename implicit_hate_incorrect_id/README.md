@@ -9,9 +9,9 @@
 
 ## General with Context Statement
 
-**Accuracy:**   
-**Precision:**  
-**Recall:** 
+**Accuracy:** 0.5213675213675214   
+**Precision:** 0.5714285714285714  
+**Recall:** 0.7058823529411765 
 
 ## Chain-of-Thought
 
