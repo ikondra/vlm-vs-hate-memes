@@ -2,9 +2,9 @@
 
 ## General
 
-**Accuracy:**    
-**Precision:**   
-**Recall:**  
+**Accuracy:** 0.7329545454545454    
+**Precision:** 0.6206896551724138   
+**Recall:** 0.5901639344262295  
 
 ## General with Context Statement
 
