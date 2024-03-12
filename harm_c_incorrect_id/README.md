@@ -12,11 +12,17 @@
 **Precision:** 0.1076923076923077  
 **Recall:** 0.7 
 
-## Chain-of-Thought
+## Chain-of-Thought 0
 
 **Accuracy:** 0.8295454545454546      
 **Precision:** 0.045454545454545456    
 **Recall:** 0.1   
+
+## Chain-of-Thought 1
+
+**Accuracy:** 0.8022598870056498      
+**Precision:** 0.12121212121212122    
+**Recall:** 0.4 
 
 ## In-Context Learning Chain-of-Thought
 
