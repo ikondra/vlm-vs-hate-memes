@@ -23,20 +23,20 @@ Q4. Based on the definition of “hate” as hatred, hostility, or violence towa
 
 ## Chain-of-Thought 1
 
-***Prompt***
-This is an image that may or may not contain hateful content.
+***Prompt***  
+This is an image that may or may not contain hateful content.  
 
-Please answer the following questions, in order:
-Q1a. Is there any text present in the image?
-Q1b. Ignoring the image, what does the overlaid text say?
-Q1c. Are there any derogatory, humiliating, insulting, or disparaging words or phrases used?
-Q1d. Are any hateful or offensive components directed at specific groups or individuals?
-Q2a. Ignoring the overlaid text, what does the image depict?
-Q2b. Are there any hateful or offensive components of the image?
-Q2c. Is there any symbolism or imagery used as a reference to any specific groups or individuals?
-Q2d. Are any hateful or offensive components directed at specific groups or individuals?
-Q3. Considering all previous answers, is the text describing something about the image that makes it hateful in this context?
-Q4. Based on the definition of “hate” as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society, should this image be classified as hateful? Explain your reasoning.
+Please answer the following questions, in order:  
+Q1a. Is there any text present in the image?  
+Q1b. Ignoring the image, what does the overlaid text say?  
+Q1c. Are there any derogatory, humiliating, insulting, or disparaging words or phrases used?  
+Q1d. Are any hateful or offensive components directed at specific groups or individuals?  
+Q2a. Ignoring the overlaid text, what does the image depict?  
+Q2b. Are there any hateful or offensive components of the image?  
+Q2c. Is there any symbolism or imagery used as a reference to any specific groups or individuals?  
+Q2d. Are any hateful or offensive components directed at specific groups or individuals?  
+Q3. Considering all previous answers, is the text describing something about the image that makes it hateful in this context?  
+Q4. Based on the definition of “hate” as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society, should this image be classified as hateful? Explain your reasoning.  
 
 ## In-Context Learning Chain-of-Thought
 
