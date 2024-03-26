@@ -24,6 +24,13 @@
 **Precision:** 0.12121212121212122    
 **Recall:** 0.4 
 
+## Chain-of-Abstraction 0 (50 images)
+
+**Accuracy:** 0.74      
+**Precision:** 0.3125    
+**Recall:** 0.7143  
+**F1-Score:** 0.4348    
+
 ## In-Context Learning Chain-of-Thought
 
 **Accuracy:**   
