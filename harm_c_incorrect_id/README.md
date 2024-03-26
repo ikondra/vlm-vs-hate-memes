@@ -31,8 +31,9 @@
 **Recall:** 0.7143  
 **F1-Score:** 0.4348    
 
-## In-Context Learning Chain-of-Thought
+## Chain-of-Abstraction 1 (38 images)
 
-**Accuracy:**   
-**Precision:**  
-**Recall:** 
+**Accuracy:** 0.38      
+**Precision:** 0.2    
+**Recall:** 0.16666666666666666  
+**F1-Score:** 0.1818181818181818    
