@@ -6,11 +6,18 @@
 **Precision:** 0.6355140186915887  
 **Recall:** 0.8259109311740891
 
-## Chain-of-Thought
+## Chain-of-Thought 0
 
 **Accuracy:** 0.7142857142857143  
 **Precision:** 0.708  
 **Recall:** 0.7195121951219512  
+
+## Chain-of-Abstraction 1 (100 images)
+
+**Accuracy:** 0.61      
+**Precision:** 0.8867924528301887    
+**Recall:** 0.5875  
+**F1-Score:** 0.7067669172932332    
 
 ## In-Context Learning Chain-of-Thought
 
