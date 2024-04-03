@@ -67,6 +67,20 @@ Q2c. Are any of the hateful or offensive components identified in Q2b directed a
 Q3. Considering all previous answers, is the text describing something about the image that makes it hateful under the category of “_{category}_” in this context?
 Q4. Based on the definition of “_{category}_” as _{definition}_, should this image be classified as _{category}_ hate? Explain your reasoning.
 
+## Chain-of-Thought 2
+
+***Prompt***    
+This is an image that may or may not contain hateful content, which is defined as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. It may or may not fit the hate category “racism”, which is defined as policies, behaviors, rules, etc. that result in a continued unfair advantage to some people and unfair or harmful treatment of others based on race. Please answer the following questions, in order:   
+Q1a. Is there any text present in the image?    
+Q1b. Ignoring the image, what does the overlaid text say?   
+Q1c. Are any racist words or phrases (or similarly derogatory, humiliating, insulting, or disparaging words or phrases) used?   
+Q1d. Are any words or phrases identified in Q1c directed at specific groups, cultures, or individuals?  
+Q2a. Ignoring the overlaid text, list all of the components of the image.   
+Q2b. Are any words or phrases identified in the overlaid text directed towards any of the image components identified in Q2a?   
+Q3a. Considering all previous answers, does any element of the overlaid text recontextualize any image components into racist hate? 
+Q3b. Considering all previous answers, do any image components recontextualize any elements of the overlaid text into racist hate?  
+Q4. Based on the definition of “racism” as policies, behaviors, rules, etc. that result in a continued unfair advantage to some people and unfair or harmful treatment of others based on race, should this image be classified as racism hate? Consider all previous answers, and explain your reasoning.  
+
 ## In-Context Learning Chain-of-Thought
 
 ***Prompt***    
