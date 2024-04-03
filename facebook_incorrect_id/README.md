@@ -14,17 +14,17 @@
 
 ## Chain-of-Abstraction 1 (100 images)
 
-**Accuracy:** 0.63      
-**Precision:** 0.6792452830188679    
-**Recall:** 0.6428571428571429  
-**F1-Score:** 0.6605504587155964    
+**Accuracy:** 0.64      
+**Precision:** 0.6785714285714286    
+**Recall:** 0.6785714285714286  
+**F1-Score:** 0.6785714285714286    
 
 ## Chain-of-Thought 2 (100 images)
 
-**Accuracy:** 0.54      
-**Precision:** 0.6086956521739131    
-**Recall:** 0.5  
-**F1-Score:** 0.5490196078431373    
+**Accuracy:** 0.57      
+**Precision:** 0.6326530612244898    
+**Recall:** 0.5535714285714286  
+**F1-Score:** 0.5904761904761905    
 
 ## In-Context Learning Chain-of-Thought
 
