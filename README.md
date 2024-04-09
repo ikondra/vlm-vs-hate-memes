@@ -1,11 +1,11 @@
 # Prompts
 
-## General with Context Statement
+## General with Context Statement - context_general
 
 ***Prompt***  
 You are a hate speech detection expert system that aims to protect the friendly atmosphere of social networks. Here is one picture. Please judge whether the picture is hateful or not-hateful.
 
-## Chain-of-Thought 0
+## Chain-of-Thought 0 - CoT
 
 ***Prompt***  
 This is an image that may or may not contain hateful content. Hate is defined as: hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society.
@@ -21,7 +21,7 @@ Q2d. Is there any symbolism or imagery used as a stand-in or reference to any ma
 Q3. Taking into account the previous answers, could the text be describing something about the image that makes it hateful in this context?  
 Q4. Based on the definition of “hate” as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society,  should this image be classified as hateful? Explain your reasoning.  
 
-## Chain-of-Thought 1
+## Chain-of-Thought 1 - CoT1
 
 ***Prompt***  
 This is an image that may or may not contain hateful content.  
@@ -38,7 +38,7 @@ Q2d. Are any hateful or offensive components directed at specific groups or indi
 Q3. Considering all previous answers, is the text describing something about the image that makes it hateful in this context?  
 Q4. Based on the definition of “hate” as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society, should this image be classified as hateful? Explain your reasoning.  
 
-## Chain-of-Abstraction 0
+## Chain-of-Abstraction 0 - CoT_race0
 
 ***Prompt***    
 This is an image that may or may not contain hateful content that fits the hate category _{category}_. Please answer the following questions, in order:   
@@ -53,7 +53,7 @@ Q2d. Are any of the hateful or offensive components identified in Q2b directed a
 Q3. Considering all previous answers, is the text describing something about the image that makes it hateful under the category of _{category}_ in this context?  
 Q4. Based on the definition of “_{category}_” as _{definition}_, should this image be classified as _{category}_ hate? Explain your reasoning.    
 
-## Chain-of-Abstraction 1
+## Chain-of-Abstraction 1 - CoT_race1
 
 ***Prompt***
 This is an image that may or may not contain hateful content, which is defined as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. It may or may not fit the hate category “_{category}_”, which is defined as _{definition}_. Please answer the following questions, in order:
@@ -67,7 +67,7 @@ Q2c. Are any of the hateful or offensive components identified in Q2b directed a
 Q3. Considering all previous answers, is the text describing something about the image that makes it hateful under the category of “_{category}_” in this context?
 Q4. Based on the definition of “_{category}_” as _{definition}_, should this image be classified as _{category}_ hate? Explain your reasoning.
 
-## Chain-of-Thought 2
+## Chain-of-Thought 2 - CoT_race2
 
 ***Prompt***    
 This is an image that may or may not contain hateful content, which is defined as hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. It may or may not fit the hate category “racism”, which is defined as policies, behaviors, rules, etc. that result in a continued unfair advantage to some people and unfair or harmful treatment of others based on race. Please answer the following questions, in order:   
@@ -81,7 +81,7 @@ Q3a. Considering all previous answers, does any element of the overlaid text rec
 Q3b. Considering all previous answers, do any image components recontextualize any elements of the overlaid text into racist hate?  
 Q4. Based on the definition of “racism” as policies, behaviors, rules, etc. that result in a continued unfair advantage to some people and unfair or harmful treatment of others based on race, should this image be classified as racism hate? Consider all previous answers, and explain your reasoning.  
 
-## In-Context Learning Chain-of-Thought
+## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
 These images may or may not contain hateful content. Hate is defined as: hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. Images #1 through #4 and the associated questions and answers are provided as examples.  
