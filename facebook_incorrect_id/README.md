@@ -27,7 +27,7 @@
 **F1-Score:** 0.5904761904761905    
 
 
-## Chain-of-Thought 2 (98 images) - CoT_race3
+## Chain-of-Thought 3 (98 images) - CoT_race3
 
 **Accuracy:** 0.5408163265306123      
 **Precision:** 0.6086956521739131    
