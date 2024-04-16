@@ -119,6 +119,24 @@ Q3. List all explicit or implied meanings of the image and the overlaid text.
 Q4. Is any previously-identified content (particularly humor or sarcasm) directed at specific groups or individuals?    
 Q5. Should this image with its overlaid text be considered racism hate? Explain your reasoning. 
 
+## Chain-of-Thought 6 - CoT_race6
+
+***Prompt***
+This is an image that may contain racist content. Racism is defined as: actions, biases, prejudices, or beliefs on the part of one group or individual that discriminates against, marginalizes, or in any way oppresses another group or individual that is perceived as being racially different. With this knowledge, please answer the following questions, in order:
+Q1a. Is text present?
+Q1b. What does the text say?
+Q1c. Does the text contain hateful words or phrases?
+Q1d. List all explicit or implied meanings for any hateful words or phrases.
+Q2a. List all components and entities in the image.
+Q2b. What is happening in the image?
+Q2c. Does the image contain any hateful visuals?
+Q2d. List all explicit or implied meanings for any hateful visuals.
+Q3a. Considering the meanings of the overlaid text and the image, list all explicit or implied meanings of the whole input.
+Q3b. Do any of these meanings involve humor or sarcasm?
+Q3c. Is any humor or sarcasm directed at specific groups or individuals?
+Q3d. Is the humor or sarcasm derogatory, demeaning, or otherwise offensive?
+Q4. Should this image with its overlaid text be considered racism hate? Explain your reasoning.
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
