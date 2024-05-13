@@ -76,7 +76,7 @@
 **Recall:** 0.875  
 **F1-Score:** 0.7368421052631579
 
-## Chain-of-Thought 9 (100 images) - CoT_race9
+## Chain-of-Thought 10 (100 images) - CoT_race10
 
 **Accuracy:** 0.7      
 **Precision:** 0.6805555555555556    
