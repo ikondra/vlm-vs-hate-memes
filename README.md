@@ -316,6 +316,24 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes racism?        
 Q5. Should this image with its overlaid text be considered racism hate? Explain your reasoning.     
 
+## Chain-of-Thought 18 - CoT_race18
+
+***RAG Query on HatReD Dataset Reasonings***     
+What specific elements make a meme hateful? Give detailed descriptions and analysis.       
+
+***Prompt***        
+Use the following contextual knowledge to answer the prompt below: A meme can be considered hateful based on several specific elements present in its content. These elements include ridiculing or mocking specific groups of people based on their race, ethnicity, religion, gender, or other characteristics. Hateful memes often dehumanize individuals by portraying them as inferior, dangerous, or undesirable. They may also contain derogatory language, stereotypes, or false information intended to incite hatred or violence towards a particular group. Additionally, hateful memes may target vulnerable populations and perpetuate harmful narratives that reinforce discrimination and prejudice. Overall, the key elements that make a meme hateful are the intent to harm, spread negativity, and promote harmful attitudes towards marginalized communities.       
+
+This is a meme that may contain racist content. Racism is defined as: actions, biases, prejudices, or beliefs on the part of one group or individual that discriminates against, marginalizes, or in any way oppresses another group or individual that is perceived as being racially different. With this knowledge, please answer the following questions, in order:     
+Q1a. Does the text contain racist words or phrases?     
+Q1b. List all explicit or implied meanings for any racist words or phrases. Explain your reasoning.     
+Q2a. List all components and entities in the image.     
+Q2b. What is happening in the image?        
+Q2c. List all explicit or implied meanings for any racist visuals. Explain your reasoning.      
+Q3. How is the image related to the overlaid text? Explain.     
+Q4. What’s the hidden message in this meme that promotes racism?        
+Q5. Should this image with its overlaid text be considered racism hate? Explain your reasoning.     
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
