@@ -160,6 +160,13 @@
 **Recall:** 0.8928571428571429  
 **F1-Score:** 0.7092198581560284  
 
+## Chain-of-Thought 22 (100 images, GPT-4o) - CoT_race22
+
+**Accuracy:** 0.57      
+**Precision:** 0.5656565656565656    
+**Recall:** 1.0  
+**F1-Score:** 0.7225806451612903  
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 **Accuracy:** 0.7309236947791165  
