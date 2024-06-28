@@ -188,6 +188,13 @@
 **Recall:** 0.8035714285714286  
 **F1-Score:** 0.6474820143884893  
 
+## Chain-of-Thought 26 (100 images) - CoT_race26
+
+**Accuracy:** 0.54      
+**Precision:** 0.5531914893617021    
+**Recall:** 0.9285714285714286  
+**F1-Score:** 0.6933333333333335  
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 **Accuracy:** 0.7309236947791165  
