@@ -522,9 +522,7 @@ Q5. Should this image with its overlaid text be considered racism hate? Explain 
 What textual and visual elements make a meme hateful or non-hateful?       
 
 ***Prompt***        
-Use the following contextual knowledge to answer the prompt below: Textual elements that can make a meme hateful include ridiculing, mocking, dehumanizing, disrespecting, disparaging, inciting violence, using derogatory terms, making offensive comparisons, and downplaying atrocities. Visual elements can also contribute to the hateful nature of a meme by depicting offensive imagery, stereotypes, or symbols that reinforce the negative textual message. In contrast, non-hateful memes typically avoid these negative textual and visual elements, instead focusing on humor, positivity, inclusivity, and respect for all individuals or groups.      
-
-Conversely, textual and visual elements that make a meme non-hateful would involve positive or neutral representations of individuals or groups, humor that does not target marginalized communities, inclusive messaging, and content that promotes understanding, empathy, and unity among diverse populations.           
+Use the following contextual knowledge to answer the prompt below: Textual elements that can make a meme hateful include ridiculing, mocking, dehumanizing, disrespecting, disparaging, inciting violence, using derogatory terms, making offensive comparisons, and downplaying atrocities. Visual elements can also contribute to the hateful nature of a meme by depicting offensive imagery, stereotypes, or symbols that reinforce the negative textual message. In contrast, non-hateful memes typically avoid these negative textual and visual elements, instead focusing on humor, positivity, inclusivity, and respect for all individuals or groups.           
 
 This is a meme that may contain racist content. Racism is defined as: actions, biases, prejudices, or beliefs on the part of one group or individual that discriminates against, marginalizes, or in any way oppresses another group or individual that is perceived as being racially different. With this knowledge, please answer the following questions, in order:     
 Q1a. Does the text contain racist words or phrases?     
@@ -536,15 +534,13 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes racism?        
 Q5. Should this image with its overlaid text be considered racism hate? Explain your reasoning.   
 
-## Chain-of-Thought 29 - CoT_race29
+## Chain-of-Thought 30 - CoT_race30
 
 ***RAG Query on HatReD Dataset Reasonings***     
 What specific elements can be used to categorize a meme as hateful or not hateful?       
 
 ***Prompt***        
 Use the following contextual knowledge to answer the prompt below: Specific elements that can be used to categorize a meme as hateful include ridiculing, mocking, dehumanizing, disrespecting, inciting violence, trivializing atrocities, making derogatory comparisons, and promoting harmful stereotypes or discriminatory beliefs towards specific groups based on their race, religion, gender, or other characteristics.      
-
-Conversely, textual and visual elements that make a meme non-hateful would involve positive or neutral representations of individuals or groups, humor that does not target marginalized communities, inclusive messaging, and content that promotes understanding, empathy, and unity among diverse populations.           
 
 This is a meme that may contain racist content. Racism is defined as: actions, biases, prejudices, or beliefs on the part of one group or individual that discriminates against, marginalizes, or in any way oppresses another group or individual that is perceived as being racially different. With this knowledge, please answer the following questions, in order:     
 Q1a. Does the text contain racist words or phrases?     
