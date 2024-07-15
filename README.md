@@ -506,8 +506,6 @@ What textual and visual elements make a meme hateful or non-hateful?
 ***Prompt***        
 Use the following contextual knowledge to answer the prompt below: Textual elements that can make a meme hateful include ridiculing, mocking, dehumanizing, disrespecting, disparaging, inciting violence, using derogatory terms, making offensive comparisons, and downplaying historical atrocities. Visual elements can also contribute to the hateful nature of a meme by depicting offensive imagery, stereotypes, or symbols that reinforce the negative message conveyed in the text. In contrast, non-hateful memes typically avoid these negative textual and visual elements, instead focusing on humor, positivity, inclusivity, and respect for all individuals and communities.      
 
-Conversely, textual and visual elements that make a meme non-hateful would involve positive or neutral representations of individuals or groups, humor that does not target marginalized communities, inclusive messaging, and content that promotes understanding, empathy, and unity among diverse populations.           
-
 This is a meme that may contain racist content. Racism is defined as: actions, biases, prejudices, or beliefs on the part of one group or individual that discriminates against, marginalizes, or in any way oppresses another group or individual that is perceived as being racially different. With this knowledge, please answer the following questions, in order:     
 Q1a. Does the text contain racist words or phrases?     
 Q1b. List all explicit or implied meanings for any racist words or phrases. Explain your reasoning.     
