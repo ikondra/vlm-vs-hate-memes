@@ -578,6 +578,24 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes hate?      
 Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.     
 
+## Chain-of-Thought 30 - CoT_race30
+
+***RAG Query on HatReD Dataset Reasonings***     
+What specific elements determine whether a meme conveys racism hate or not?       
+
+***Prompt***        
+Use the following contextual knowledge to answer the prompt below: The specific elements that determine whether a meme conveys racism hate or not include mocking, dehumanizing, ridiculing, insulting, vilifying, objectifying, and making fun of specific racial or ethnic groups. These elements can be seen in the content of the meme, such as jokes about historical atrocities, stereotypes, violent threats, derogatory language, and harmful generalizations about certain communities.      
+
+This is a meme that may contain racist content. Racism is defined as: actions, biases, prejudices, or beliefs on the part of one group or individual that discriminates against, marginalizes, or in any way oppresses another group or individual that is perceived as being racially different. With this knowledge, please answer the following questions, in order:     
+Q1a. Does the text contain racist words or phrases?     
+Q1b. List all explicit or implied meanings for any racist words or phrases. Explain your reasoning.     
+Q2a. List all components and entities in the image.     
+Q2b. What is happening in the image?        
+Q2c. List all explicit or implied meanings for any racist visuals. Explain your reasoning.      
+Q3. How is the image related to the overlaid text? Explain.     
+Q4. What’s the hidden message in this meme that promotes racism?        
+Q5. Should this image with its overlaid text be considered racism hate? Explain your reasoning.   
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
