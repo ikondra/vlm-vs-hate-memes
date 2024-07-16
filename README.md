@@ -578,7 +578,7 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes hate?      
 Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.     
 
-## Chain-of-Thought 30 - CoT_race30
+## Chain-of-Thought 33 - CoT_race33
 
 ***RAG Query on HatReD Dataset Reasonings***     
 What specific elements determine whether a meme conveys racism hate or not?       
