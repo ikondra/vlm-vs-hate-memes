@@ -602,7 +602,7 @@ Q5. Should this image with its overlaid text be considered racism hate? Explain 
 What specific elements determine whether a meme is hateful or non-hateful?       
 
 ***Prompt***        
-Use the following contextual knowledge to answer the prompt below: 
+Use the following contextual knowledge to answer the prompt below: ridiculed or mocked, the nature of the derogatory statements or actions towards the target group, and the dehumanizing or disrespectful language used to describe the targeted individuals or communities. Additionally, the incitement of violence, promotion of harmful stereotypes, and trivialization of historical atrocities can also contribute to categorizing a meme as hateful.
 
 This is a meme that may contain hateful content. Hate is defined as:  hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. With this knowledge, please answer the following questions, in order:     
 Q1a. Does the text contain hateful words or phrases?    
