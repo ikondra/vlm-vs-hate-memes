@@ -11,9 +11,9 @@
 
 ## Chain-of-Thought 32 (60 images, GPT-4-turbo) - CoT32
 
-**Accuracy:** 0.7333333333333333    
-**Precision:** 0.7058823529411765   
-**Recall:** 0.8     
-**F1 Score:** 0.7500000000000001    
+**Accuracy:** 0.7666666666666667    
+**Precision:** 0.7222222222222222   
+**Recall:** 0.8666666666666667     
+**F1 Score:** 0.7878787878787877    
 **Contextual Memes Accuracy:** 0.8  
-**Non-Contextual Memes Accuracy:** 0.64     
+**Non-Contextual Memes Accuracy:** 0.72     
