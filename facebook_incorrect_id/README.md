@@ -237,6 +237,13 @@
 **Recall:** 0.7375  
 **F1-Score:** 0.7866666666666667  
 
+## Chain-of-Thought 35 (100 images, GPT-4-turbo, RAG data regenerated with GPT-4-turbo) - CoT35
+
+**Accuracy:** 0.76      
+**Precision:** 0.8783783783783784    
+**Recall:** 0.8125  
+**F1-Score:** 0.8441558441558441  
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 **Accuracy:** 0.7309236947791165  
