@@ -632,6 +632,24 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes hate?      
 Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.     
 
+## Chain-of-Thought 36 - CoT36   
+
+***RAG Query on HatReD Dataset Reasonings***     
+What specific elements determine whether a meme is hateful or non-hateful?       
+
+***Prompt***        
+Use the following contextual knowledge to answer the prompt below: The specific elements that determine whether a meme is hateful or non-hateful include the targeted group or individual, the language used to describe them, the actions or characteristics attributed to them, and the tone of the message conveyed. Hateful memes often target marginalized groups or individuals, use derogatory language or stereotypes, attribute negative actions or qualities to the targeted group, and convey a tone of mockery, ridicule, or dehumanization. In contrast, non-hateful memes typically avoid targeting specific groups for harm, use respectful language, avoid perpetuating stereotypes, and convey messages that are light-hearted or positive in nature.
+
+This is a meme that may contain hateful content. Hate is defined as:  hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. With this knowledge, please answer the following questions, in order:     
+Q1a. Does the text contain hateful words or phrases?    
+Q1b. List all explicit or implied meanings for any hateful words or phrases. Explain your reasoning.    
+Q2a. List all components and entities in the image.     
+Q2b. What is happening in the image?    
+Q2c. List all explicit or implied meanings for any hateful visuals. Explain your reasoning.     
+Q3. How is the image related to the overlaid text? Explain.     
+Q4. What’s the hidden message in this meme that promotes hate?      
+Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.     
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
