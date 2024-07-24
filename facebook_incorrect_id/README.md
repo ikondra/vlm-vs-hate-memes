@@ -251,12 +251,19 @@
 **Recall:** 0.8  
 **F1-Score:** 0.8476821192052981  
 
-## Chain-of-Thought 37 (100 images, GPT-4-turbo, RAG data regenerated with GPT-4-turbo) - CoT36
+## Chain-of-Thought 37 (100 images, GPT-4-turbo, RAG data regenerated with GPT-4-turbo) - CoT37
 
 **Accuracy:** 0.76      
 **Precision:** 0.9    
 **Recall:** 0.7875  
 **F1-Score:** 0.84  
+
+## Chain-of-Thought 38 (99 images, GPT-4-turbo, RAG data regenerated with GPT-4-turbo) - CoT38
+
+**Accuracy:** 0.8080808080808081      
+**Precision:** 0.8947368421052632    
+**Recall:** 0.8607594936708861  
+**F1-Score:** 0.8774193548387097  
 
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
