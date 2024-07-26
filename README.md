@@ -686,6 +686,24 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes hate?      
 Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.     
 
+## Chain-of-Thought 39 - CoT39   
+
+***RAG Query***     
+What specific elements determine whether a meme is hateful or non-hateful?       
+
+***Prompt***        
+Use the following contextual knowledge to answer the prompt below: The specific elements that determine whether a meme is hateful or non-hateful include the target group being ridiculed or mocked, the derogatory language or imagery used towards the targeted group, the dehumanization or trivialization of the targeted group's suffering or experiences, the incitement of violence or harm towards the targeted group, and the reinforcement of negative stereotypes or prejudices against the targeted group.      
+
+This is a meme that may contain hateful content. Hate is defined as:  hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. With this knowledge, please answer the following questions, in order:     
+Q1a. Does the text contain hateful words or phrases?    
+Q1b. List all explicit or implied meanings for any hateful words or phrases. Explain your reasoning.    
+Q2a. List all components and entities in the image.     
+Q2b. What is happening in the image?    
+Q2c. List all explicit or implied meanings for any hateful visuals. Explain your reasoning.     
+Q3. How is the image related to the overlaid text? Explain.     
+Q4. What’s the hidden message in this meme that promotes hate?      
+Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.     
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
