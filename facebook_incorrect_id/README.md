@@ -279,6 +279,13 @@
 **Recall:** 0.759493670886076  
 **F1-Score:** 0.8053691275167785  
 
+## Chain-of-Thought 41 (2984 images, GPT-4-turbo) - CoT41
+
+**Accuracy:** 0.7225201072386059      
+**Precision:** 0.6201550387596899    
+**Recall:** 0.8448415922014623  
+**F1-Score:** 0.7152682255845942  
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 **Accuracy:** 0.7309236947791165  
