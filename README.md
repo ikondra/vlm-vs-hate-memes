@@ -758,6 +758,24 @@ Q3. How is the image related to the overlaid text? Explain.
 Q4. What’s the hidden message in this meme that promotes hate?      
 Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.    
 
+## Chain-of-Thought 43 - CoT43   
+
+***RAG Query***     
+What specific elements determine whether a meme is hateful or non-hateful?       
+
+***Prompt***        
+Use the following contextual knowledge to answer the prompt below: The specific elements that determine whether a meme is hateful or non-hateful include the target group being ridiculed, mocked, dehumanized, or disrespected, as well as the nature of the reasoning provided in the meme. Hateful memes often target specific groups such as racial or religious communities, people with disabilities, or certain genders, and use derogatory language or stereotypes to belittle or insult them. The reasoning in the meme can further contribute to its hateful nature by promoting violence, inciting hatred, or spreading harmful stereotypes about the targeted group. In contrast, non-hateful memes typically avoid targeting specific groups for ridicule or disrespect and focus on humor or positive messaging that does not harm or offend any particular community.      
+
+This is a meme that may contain hateful content. Hate is defined as:  hatred, hostility, or violence towards member(s) of a race, ethnicity, nation, religion, gender, gender identity, sexual orientation or any other designated sector of society. With this knowledge, please answer the following questions, in order:     
+Q1a. Does the text contain hateful words or phrases?    
+Q1b. List all explicit or implied meanings for any hateful words or phrases. Explain your reasoning.    
+Q2a. List all components and entities in the image.     
+Q2b. What is happening in the image?    
+Q2c. List all explicit or implied meanings for any hateful visuals. Explain your reasoning.     
+Q3. How is the image related to the overlaid text? Explain.     
+Q4. What’s the hidden message in this meme that promotes hate?      
+Q5. Should this image with its overlaid text be considered hateful? Explain your reasoning.    
+
 ## In-Context Learning Chain-of-Thought - in_context_learning_CoT
 
 ***Prompt***    
